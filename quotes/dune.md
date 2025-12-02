@@ -7,8 +7,11 @@
 =======
 - "The spice must flow."
 - "Fear is the mind-killer."
+<<<<<<< HEAD
 - "Another quote"
 >>>>>>> 3ee29fb (F: Missing quote)
 =======
 - "The spice must flow."
 >>>>>>> e1eb000 (H: add line spice)
+=======
+>>>>>>> 5bb9d0d (I: add fear quote)
